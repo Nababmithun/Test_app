@@ -1,0 +1,35 @@
+com/pajokka/githubuser/databinding/SettingsFragmentBinding.java
+ com.pajokka.githubuser.databinding.SettingsFragmentBinding
+com/pajokka/githubuser/data/source/local/room/UserDatabase_Impl.java
+ com.pajokka.githubuser.data.source.local.room.UserDatabase_Impl
+ com.pajokka.githubuser.data.source.local.room.UserDatabase_Impl$1
+com/pajokka/githubuser/databinding/ActivityDetailBinding.java
+ com.pajokka.githubuser.databinding.ActivityDetailBinding
+com/pajokka/githubuser/databinding/HomeFragmentBinding.java
+ com.pajokka.githubuser.databinding.HomeFragmentBinding
+com/pajokka/githubuser/BuildConfig.java
+ com.pajokka.githubuser.BuildConfig
+com/pajokka/githubuser/data/source/local/room/UserDao_Impl.java
+ com.pajokka.githubuser.data.source.local.room.UserDao_Impl
+ com.pajokka.githubuser.data.source.local.room.UserDao_Impl$1
+ com.pajokka.githubuser.data.source.local.room.UserDao_Impl$2
+ com.pajokka.githubuser.data.source.local.room.UserDao_Impl$3
+ com.pajokka.githubuser.data.source.local.room.UserDao_Impl$4
+ com.pajokka.githubuser.data.source.local.room.UserDao_Impl$5
+ com.pajokka.githubuser.data.source.local.room.UserDao_Impl$6
+com/pajokka/githubuser/databinding/FollowingFragmentBinding.java
+ com.pajokka.githubuser.databinding.FollowingFragmentBinding
+com/pajokka/githubuser/databinding/FollowersFragmentBinding.java
+ com.pajokka.githubuser.databinding.FollowersFragmentBinding
+com/pajokka/githubuser/databinding/ItemPopularBinding.java
+ com.pajokka.githubuser.databinding.ItemPopularBinding
+com/pajokka/githubuser/databinding/FavoriteFragmentBinding.java
+ com.pajokka.githubuser.databinding.FavoriteFragmentBinding
+com/pajokka/githubuser/databinding/ItemFollowBinding.java
+ com.pajokka.githubuser.databinding.ItemFollowBinding
+com/pajokka/githubuser/databinding/ActivityMainBinding.java
+ com.pajokka.githubuser.databinding.ActivityMainBinding
+com/pajokka/githubuser/databinding/ItemPopularPlaceholderBinding.java
+ com.pajokka.githubuser.databinding.ItemPopularPlaceholderBinding
+com/pajokka/githubuser/databinding/ItemFollowPlaceholderBinding.java
+ com.pajokka.githubuser.databinding.ItemFollowPlaceholderBinding

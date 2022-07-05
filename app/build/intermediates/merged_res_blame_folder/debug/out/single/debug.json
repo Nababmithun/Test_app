@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_dots_white.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable-mdpi\\ic_dots_white.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_dots.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_dots.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_bg_blue.jpg.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable-xxxhdpi\\bg_blue.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_retangle_grey.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable\\shape_retangle_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_category.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_category.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_retangle_search.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable\\shape_retangle_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\raw_search_user.json.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\raw\\search_user.json"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\raw_user_not_found.json.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\raw\\user_not_found.json"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_favorite_24.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable\\ic_favorite_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\font_poppins_light.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\font\\poppins_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_arrow_back_white.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_arrow_back_white.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\layout-v28_activity_main.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout-v28\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_nav.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable\\shape_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\layout_item_popular_placeholder.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout\\item_popular_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_outline_collections_bookmark_24.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable\\ic_outline_collections_bookmark_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\layout_following_fragment.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout\\following_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_moon.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_moon.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_retangle_button.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable\\shape_retangle_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\layout_item_follow.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout\\item_follow.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\font_poppins.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\font\\poppins.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\layout_followers_fragment.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout\\followers_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_logo_app.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable-xxxhdpi\\logo_app.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\layout_settings_fragment.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout\\settings_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\layout_item_popular.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout\\item_popular.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable\\ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\layout_favorite_fragment.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout\\favorite_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\font_poppins_medium.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\font\\poppins_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_user1.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable-mdpi\\user1.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\font_poppins_semibold.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\font\\poppins_semibold.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_color_cursor.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable-mdpi\\color_cursor.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_arrow_back.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_circle_color.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable\\shape_circle_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_retangle_button_followed.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable\\shape_retangle_button_followed.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_voice.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_voice.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\layout_item_follow_placeholder.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout\\item_follow_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_shape_retangle_outline_grey.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable-mdpi\\shape_retangle_outline_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_tab_color_selector.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable\\tab_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\layout_home_fragment.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout\\home_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_sun.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_sun.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_retangle_tablayout.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable\\shape_retangle_tablayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_nav_selector.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable\\nav_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    }
+]

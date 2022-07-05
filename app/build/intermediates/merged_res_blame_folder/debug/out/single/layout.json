@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_popular_placeholder.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout\\item_popular_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_popular.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout\\item_popular.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\following_fragment.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout\\following_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_follow_placeholder.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout\\item_follow_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\home_fragment.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout\\home_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\followers_fragment.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout\\followers_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\settings_fragment.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout\\settings_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_follow.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout\\item_follow.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\favorite_fragment.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Jithapp-main\\app\\src\\main\\res\\layout\\favorite_fragment.xml"
+    }
+]
